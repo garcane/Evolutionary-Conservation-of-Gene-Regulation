@@ -30,12 +30,5 @@ In Part 3, the coursework aims to describe the evolution of a provided gene sequ
 3. Discussing the conservation of synteny about vertebrate evolution
 4. Identifying related genes (paralogs) and interpreting the observations in the context of vertebrate evolution
 
-## Usage
-
-The repository contains three main documents:
-
-1. `[Final] Genomics in Molecular Medicine Bioinformatics Coursework by UP89480.pdf`: A PDF file containing the coursework questions and answers for Parts 1, 2, and 3.
-2. `Bioinformatics 2021 Manual complete.docx`: A Microsoft Word document providing instructions and guidelines for the bioinformatics workshop.
-3. `Bioinformatics 2021 mRNA Test Seq A.txt`: A text file containing the test mRNA sequence used in the bioinformatics workshop.
 
 
