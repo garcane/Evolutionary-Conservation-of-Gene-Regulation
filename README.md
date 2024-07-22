@@ -31,4 +31,9 @@ In Part 3, the coursework aims to describe the evolution of a provided gene sequ
 4. Identifying related genes (paralogs) and interpreting the observations in the context of vertebrate evolution
 
 
+## Results
+
+* Conducted analysis of retinoic acid receptor alpha (RARA) across 10 vertebrate species using NCBI, Ensembl, and BLAST, identifying conserved Ser77 and Ser369 phosphorylation sites and compared Human RARA and RARB protein sequences with Blast2seq, finding 78.5% sequence homology.
+* Aligned wild-type and mutated DMD gene versions using Clustal Omega to highlight deletion impacts and used Ensembl's BLAT tool to identify and visualise OPN1LW gene and its transcripts, finding 96.43% identity with paralogs.
+* Applied UCSC genome browser to identify regulatory regions for OPN1LW, finding high H3K4Me1, transcription factor clusters, DNase clusters, and H3K27Ac signatures and analysed NCAM2 in Homo sapiens with NCBI BLAST and Ensembl, highlighting synteny conservation with Genomicus, and created a gene tree using TreeFam.
 
